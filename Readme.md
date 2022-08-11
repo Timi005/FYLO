@@ -1,3 +1,4 @@
 # Web3 Assignment4
 
-this repo contain my assignment4 submission for web3.0 training track development
+This repository contains my assignment submission for Web3Bridge.
+This is a responsive Landing Page made with css flexbox.
